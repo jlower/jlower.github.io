@@ -1,7 +1,6 @@
 # jlower.github.io
 
-个人网站
-
+个人主页
 
 
 
@@ -23,27 +22,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-> Most used languages Except HTML
+> Most used languages Except HTML and CSS
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jlower&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jlower&layout=compact&hide=html,css)
 
-<details>
-<summary>
-  Projects I am currently working on
-</summary>
-
-<br />
+> Projects I am currently working on
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jlower&repo=BlueArchive-Cursors)](https://github.com/jlower/BlueArchive-Cursors)
 
-<br />
-
-</details>
-
-
-<div><p>My profile overview: </p></div>
+> My profile overview: 
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=jlower&show_icons=true)
-<br />
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jlower)
