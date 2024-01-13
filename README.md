@@ -1,7 +1,6 @@
 # jlower.github.io
 
-个人主页
-
+## 已弃用
 
 
 ### Hi there , I'm [lowo!](https://jlower.github.io/blog) 👋
